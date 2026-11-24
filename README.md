@@ -11,4 +11,4 @@ I am a PhD candidate at the University of Minnesota-Twin Cities working under Pr
 - Characterizing chloride fate and transport in a karstic setting in Southeastern Minnesota
 
 # Personal projcets
-- Knitting iterations of the [9143 stretchy beanie | https://www.ravelry.com/patterns/library/the-stretchy-beanie] 
+- Knitting iterations of the [9143 stretchy beanie](https://www.ravelry.com/patterns/library/the-stretchy-beanie)
