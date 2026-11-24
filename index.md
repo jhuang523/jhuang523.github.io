@@ -5,7 +5,7 @@ filename: personal_projects.md
 --- 
 # Jenny Huang
 
-I am a PhD candidate at the University of Minnesota-Twin Cities working under Professor Peter Kang. 
+I am a PhD candidate in the [Kang Research Group at the University of Minnesota](https://kang.esci.umn.edu/). 
 
 # Research Interests
 - Karst aquifers
